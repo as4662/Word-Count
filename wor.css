@@ -1,0 +1,38 @@
+body {
+
+    background-color: blue;
+}
+
+input {
+    margin-top: 100px;
+    margin-left:200px;
+    width:300px;
+    height: 30px;
+    display:block;
+    padding-left: 380px;
+}
+
+#output {
+    margin-top: 40px;
+    margin-left:400px;
+    width:100px;
+    background-color: aqua;
+
+}
+#btn {
+    width:300px;
+    height:70px;
+    color: brown;
+    background-color: orangered;
+    border-style:none;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left:300px;
+
+}
+
+h1 {
+    text-align: center;
+    color: aquamarine;
+    margin-top: 40px;
+}
